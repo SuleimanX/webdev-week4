@@ -1,0 +1,58 @@
+section{
+    margin: 5%;
+    color: #000;
+    margin-bottom: 0px;
+
+}
+.box{
+    margin: 5px;
+    border: 1px solid wheat;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.skill{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+header{
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    text-align: center;
+    background-color: gray;
+    background-position: 20%;
+}
+
+#p1 {
+    background-color: tomato;
+}
+
+.contact {
+    background-color: #333;
+    color: rgba(255, 255, 255, 0.579);
+    padding: 20px;
+    text-align: center;
+}
+
+.contactinfo{
+    padding-top: 10px;
+    color: aliceblue;
+}
+
+.contactinfo p {
+    margin: 10px 0;
+}
+  
+.contactinfo a{
+    color: rgb(0, 157, 255);
+    text-decoration: underline rgb(105, 215, 255);
+    margin: 0 5px;
+}
+
+
+.socials{
+    color: burlywood;
+}
